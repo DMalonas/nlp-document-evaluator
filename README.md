@@ -1,7 +1,7 @@
 # nlp-document-evaluator
 Project Introduction: 
 _________________________________________________________________________________________________________________________
-Build a web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites.
+Web tool that for running Natural Language Processing (NLP) website content.
 -------------------------------------------------------------------------------------------------------------------------
 
 
