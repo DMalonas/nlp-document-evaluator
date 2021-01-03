@@ -1,7 +1,7 @@
 # nlp-document-evaluator
 Project Introduction: 
 _________________________________________________________________________________________________________________________
-Web tool that for running Natural Language Processing (NLP) website content.
+Web tool for running Natural Language Processing (NLP) website content.
 -------------------------------------------------------------------------------------------------------------------------
 
 
